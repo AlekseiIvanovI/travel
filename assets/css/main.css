@@ -2394,6 +2394,14 @@ button,
 			background-color: rgba(0, 0, 0, 0.75);
 		}
 
+    .spotlight:nth-child(11) {
+			background-color: rgba(0, 0, 0, 0.80);
+		}
+
+    .spotlight:nth-child(12) {
+			background-color: rgba(0, 0, 0, 0.85);
+		}
+
 		@media screen and (max-width: 1280px) {
 
 			.spotlight .image {
